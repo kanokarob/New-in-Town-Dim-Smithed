@@ -29,23 +29,23 @@ Access to the dimensions is not done by the traditional manner of building a por
 ![](https://i.imgur.com/FUkb5Ew.png)
 
 # The Primordial Desert
-## The Primordial Desert is a harsh and hostile world, a seemingly endless desert peppered with pockets of peace and danger, hundreds of blocks apart. The Oasis biomes are small, and the only place to find water in this ultrawarm dimension where Hoglins do not zombify as they roam the warm sands. Volcanic cave biomes dwell under the surface, flooded with lava deltas and their magma chambers guarded by Blazes. Diamonds and Emeralds generate more commonly in the volcanic zones, sometimes even nearingthe surface, though in smaller deposits. You must be careful mining here, though, as in the whole dimension, silverfish and deposits of infested stone are common occurrences.
+#### The Primordial Desert is a harsh and hostile world, a seemingly endless desert peppered with pockets of peace and danger, hundreds of blocks apart. The Oasis biomes are small, and the only place to find water in this ultrawarm dimension where Hoglins do not zombify as they roam the warm sands. Volcanic cave biomes dwell under the surface, flooded with lava deltas and their magma chambers guarded by Blazes. Diamonds and Emeralds generate more commonly in the volcanic zones, sometimes even nearingthe surface, though in smaller deposits. You must be careful mining here, though, as in the whole dimension, silverfish and deposits of infested stone are common occurrences.
 ![](https://i.imgur.com/98VXSZ1.png)
 ![](https://i.imgur.com/XjRZbtB.png)
-## Most notably, the Primordial Desert is an exceptional location to mine in, featuring a maximum world depth of -128, with the surface terrain leveling out at about Y=72.
+#### Most notably, the Primordial Desert is an exceptional location to mine in, featuring a maximum world depth of -128, with the surface terrain leveling out at about Y=72.
 ![](https://i.imgur.com/QIffkAW.png)
-## Piglins have carved out a home for themselves all across the Primordial Desert, hunkering down beneath the sands. These advanced Piglins have cooks, stonecutters, and gold mines, but they guard their homes fiercely. If you can manage the Piglin Brutes, these settlements may prove to be allied respite from the Husks of the night.
+#### Piglins have carved out a home for themselves all across the Primordial Desert, hunkering down beneath the sands. These advanced Piglins have cooks, stonecutters, and gold mines, but they guard their homes fiercely. If you can manage the Piglin Brutes, these settlements may prove to be allied respite from the Husks of the night.
 ![](https://i.imgur.com/o229Ooc.png)
 
 # The Buried Ocean
-## The majority of the Buried Ocean is flooded with dark seas, where fish and Squids may swim, but Drowned as well. Due to the low light level across this world, the high ceilings and low, flooded caves beneath the seafloor, Drowned make up the majority of hostile mobs, and thanks to this, the odds of encountering one or more trident-wielders is extreme. The obsidian pillars which float at the water's surface may allow skeletons, spiders, and creepers to spawn as well, but they will be largely relegated to the different landmasses which generate in the Buried Ocean, with hundreds of blocks of water between them.
+#### The majority of the Buried Ocean is flooded with dark seas, where fish and Squids may swim, but Drowned as well. Due to the low light level across this world, the high ceilings and low, flooded caves beneath the seafloor, Drowned make up the majority of hostile mobs, and thanks to this, the odds of encountering one or more trident-wielders is extreme. The obsidian pillars which float at the water's surface may allow skeletons, spiders, and creepers to spawn as well, but they will be largely relegated to the different landmasses which generate in the Buried Ocean, with hundreds of blocks of water between them.
 ![](https://i.imgur.com/EQ89D3l.png)
 ![](https://i.imgur.com/mwjQ47l.png)
 ![](https://i.imgur.com/WSs6uOp.png)
 ![](https://i.imgur.com/p3Aaugz.png)
 
 # The Tempest
-## This dimension is cursed with an eternal storm, with rain and snow falling from the sky in every biome, and thunder crashing frequently as lightning strikes the earth. Due to the volatility and high electricity in the air, every Creeper of the Tempest is immediately and constantly charged, and Phantoms grow greatly in size, spawning naturally in any biome that does not have a forest.
+#### This dimension is cursed with an eternal storm, with rain and snow falling from the sky in every biome, and thunder crashing frequently as lightning strikes the earth. Due to the volatility and high electricity in the air, every Creeper of the Tempest is immediately and constantly charged, and Phantoms grow greatly in size, spawning naturally in any biome that does not have a forest.
 ![](https://i.imgur.com/r6PUdF5.png)
 In the Lightning Fields, the frequent lightning strikes have created floating magnetites, drawing iron, redstone, and gold ore to the surface and into the air, hovering over the brown fields where livestock and undead tread. In colder biomes, the snow has begun to pile and settle so much that drifts of hardened snow generate, and a barrage of hail threatens to injure any survivalists that would choose to venture out from under the protective leaves (simulated by poison). In the Foreboding Wood, traveling above the canopy is discouraged by haunting spirits.
 ![](https://i.imgur.com/IdZRd3R.png)
@@ -55,11 +55,11 @@ In the Lightning Fields, the frequent lightning strikes have created floating ma
 ![](https://i.imgur.com/U87lUPw.png)
 
 # Seafarers | The Fleet-Sailing Expansion
-## If you've played the original New in Town, you may be familiar with the non-functional Fleet Manifest sold by the Mayor. Now, that charter book will become functional with both New in Town and the Dimensions Pre-Release installed! Head for the Buried Ocean dimension and use the Fleet Manifest while in water (the Deep Dark Sea, Dark Sea, or Pristine Sea biomes are the most recommended) and the Captain's Ship will be constructed around you!
+#### If you've played the original New in Town, you may be familiar with the non-functional Fleet Manifest sold by the Mayor. Now, that charter book will become functional with both New in Town and the Dimensions Pre-Release installed! Head for the Buried Ocean dimension and use the Fleet Manifest while in water (the Deep Dark Sea, Dark Sea, or Pristine Sea biomes are the most recommended) and the Captain's Ship will be constructed around you!
 ![](https://i.imgur.com/cvAUFu7.png)
 ![](https://i.imgur.com/9oqLAWr.png)
 
 # Excavators | The Deep-Mining Expansion
-## In addition to the Fleet Manifest, you can also purchase the Excavation Lease from the Mayor to begin a mine in the Primordial Desert! Use this new charter book to establish a lift down below the sands. Expand your mine with all kinds of functional shafts and drills, uncover buried artifacts and perform research to restore them to their former glory, and uncover the secrets of the Illagers' intentions in this harsh dimension.
+#### In addition to the Fleet Manifest, you can also purchase the Excavation Lease from the Mayor to begin a mine in the Primordial Desert! Use this new charter book to establish a lift down below the sands. Expand your mine with all kinds of functional shafts and drills, uncover buried artifacts and perform research to restore them to their former glory, and uncover the secrets of the Illagers' intentions in this harsh dimension.
 ![](https://i.imgur.com/7234dRt.png)
 ![](https://i.imgur.com/1fvVoLU.png)
