@@ -24,7 +24,7 @@ Access to the dimensions is not done by the traditional manner of building a por
 
 
 # The In Between
-## The In Between, as the name might imply, serves as the bridge between the Overworld and the other dimensions included in this data pack. All across the floating islands of the In Between, you will find existing Mysterious Portals. Entering these will take you to one of the three other dimensions: the Primordial Desert, the Buried Ocean, or the Tempest. There is no way to tell which world the portal will take you to until you step through, but once you do, that portal will always take you to that same place in the same dimension.
+#### The In Between, as the name might imply, serves as the bridge between the Overworld and the other dimensions included in this data pack. All across the floating islands of the In Between, you will find existing Mysterious Portals. Entering these will take you to one of the three other dimensions: the Primordial Desert, the Buried Ocean, or the Tempest. There is no way to tell which world the portal will take you to until you step through, but once you do, that portal will always take you to that same place in the same dimension.
 ![](https://i.imgur.com/nJe0cU1.png)
 ![](https://i.imgur.com/FUkb5Ew.png)
 
